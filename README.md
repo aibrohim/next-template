@@ -1,5 +1,5 @@
 This is a template for auth app in Next Js
 
-Authentication was did with Next Auth
+Authentication was done with Next Auth
 
 More instructions will be uploaded soon
